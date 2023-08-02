@@ -7,6 +7,7 @@ public class Lab {
      * classes such as Math, Arrays, System are used without instantiating the object - we would skip directly to using
      * a method such as Math.pow() immediately. How does this work?
      *
+     * 
      * The Math class contains static methods, which means that it does not need to be instantiated for a developer
      * to use the contained methods. They are global to the entire program. This is very important to understand,
      * as new coders often misuse the static keyword. So, static methods and variables of Math are associated with the
